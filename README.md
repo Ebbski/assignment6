@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before running the app, install dependencies
 
-`npm install`
+### `npm install`
 
-Do this to include all needed dependencies such as Bootstrap listed in package.json
+Run this command to include all needed dependencies such as Bootstrap listed in package.json
 
 ## Available Scripts
 
