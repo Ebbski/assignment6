@@ -6,7 +6,6 @@ export default function OrderButtons ({handleSorting}) {
         <div className="order-buttons">
             <button
                 className="btn btn-primary"
-                name="button"
                 onClick={() => handleSorting("title")}
             >
                 Alfabetisk ordning    
@@ -14,7 +13,6 @@ export default function OrderButtons ({handleSorting}) {
 
             <button
                 className="btn btn-primary"
-                name="button"
                 onClick={() => handleSorting("grade")}
             >
                 Betygsordning
